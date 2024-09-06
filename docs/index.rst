@@ -6,15 +6,19 @@
 Welcome to MyProject's documentation!
 =====================================
 
+Contents
+--------
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+
+   overview
+   page1
+   page2
 
 
 
-Indices and tables
-==================
+Another section
+---------------
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Some text
